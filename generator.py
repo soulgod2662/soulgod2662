@@ -5,9 +5,9 @@ import array
 import mysql.connector
 
 mydatabase = mysql.connector.connect(
-    host='localhost',
-    user='root',
-    password='soham0421',
+    host,  ## Your host and user and password and create a database known as logins and then run the program
+    user,
+    password,
     auth_plugin= 'mysql_native_password',
     database='logins')
 
