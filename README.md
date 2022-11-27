@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soulgod2662
 - 👀 I’m interested in Programming and Hacking
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently C++ 
+- 💞️ I’m looking to collaborate on anything but mostly in Python
 - 📫 How to reach me sohamvaidya2662@gmail.com
 
 <!---
