@@ -116,24 +116,12 @@ def Submit():
                 S_P_Btn.place(x = 150, y = 150)
 
 
-
-
-
-
-
-
-
-
             G_P_Btn = tkinter.Button(AfterLogin, text = 'Generate New Password',command = GeneratePassword, height= 2)
             G_P_Btn.place(x = 150, y = 20)
 
 
-
-
-
-
-
-
+            
+            
 def signup():
     upon = False
     signuppage = tkinter.Tk()
